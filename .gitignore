@@ -1,0 +1,12 @@
+/Library/
+/Logs/
+/obj/
+/Packages/
+/.vs/
+/Temp/
+/Assets/PolyADSDK/
+*.sln
+*.csproj
+Assets/Excels/~$Language.xlsx
+Assets/Excels/~$Language.xlsx.meta
+Assets/Prefabs/Particles.meta
